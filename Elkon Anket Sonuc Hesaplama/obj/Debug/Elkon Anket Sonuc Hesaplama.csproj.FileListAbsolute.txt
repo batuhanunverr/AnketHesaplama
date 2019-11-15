@@ -1,0 +1,17 @@
+c:\users\trc\documents\visual studio 2015\Projects\Elkon Anket Sonuc Hesaplama\Elkon Anket Sonuc Hesaplama\bin\Debug\Elkon Anket Sonuc Hesaplama.exe.config
+C:\Users\trc\documents\visual studio 2015\Projects\Elkon Anket Sonuc Hesaplama\Elkon Anket Sonuc Hesaplama\obj\Debug\Elkon Anket Sonuc Hesaplama.csprojResolveAssemblyReference.cache
+C:\Users\trc\documents\visual studio 2015\Projects\Elkon Anket Sonuc Hesaplama\Elkon Anket Sonuc Hesaplama\obj\Debug\Elkon_Anket_Sonuc_Hesaplama.bdtpazarlamapage.resources
+C:\Users\trc\documents\visual studio 2015\Projects\Elkon Anket Sonuc Hesaplama\Elkon Anket Sonuc Hesaplama\obj\Debug\Elkon_Anket_Sonuc_Hesaplama.Form1.resources
+C:\Users\trc\documents\visual studio 2015\Projects\Elkon Anket Sonuc Hesaplama\Elkon Anket Sonuc Hesaplama\obj\Debug\Elkon_Anket_Sonuc_Hesaplama.Properties.Resources.resources
+C:\Users\trc\documents\visual studio 2015\Projects\Elkon Anket Sonuc Hesaplama\Elkon Anket Sonuc Hesaplama\obj\Debug\Elkon Anket Sonuc Hesaplama.csproj.GenerateResource.Cache
+C:\Users\trc\documents\visual studio 2015\Projects\Elkon Anket Sonuc Hesaplama\Elkon Anket Sonuc Hesaplama\bin\Debug\Elkon Anket Sonuc Hesaplama.exe
+C:\Users\trc\documents\visual studio 2015\Projects\Elkon Anket Sonuc Hesaplama\Elkon Anket Sonuc Hesaplama\bin\Debug\Elkon Anket Sonuc Hesaplama.pdb
+C:\Users\trc\documents\visual studio 2015\Projects\Elkon Anket Sonuc Hesaplama\Elkon Anket Sonuc Hesaplama\obj\Debug\Elkon Anket Sonuc Hesaplama.exe
+C:\Users\trc\documents\visual studio 2015\Projects\Elkon Anket Sonuc Hesaplama\Elkon Anket Sonuc Hesaplama\obj\Debug\Elkon Anket Sonuc Hesaplama.pdb
+C:\Users\trc\documents\visual studio 2015\Projects\Elkon Anket Sonuc Hesaplama\Elkon Anket Sonuc Hesaplama\obj\Debug\Elkon_Anket_Sonuc_Hesaplama.muhasebepage.resources
+C:\Users\trc\documents\visual studio 2015\Projects\Elkon Anket Sonuc Hesaplama\Elkon Anket Sonuc Hesaplama\obj\Debug\Elkon_Anket_Sonuc_Hesaplama.InovasyonTedarik.resources
+C:\Users\trc\documents\visual studio 2015\Projects\Elkon Anket Sonuc Hesaplama\Elkon Anket Sonuc Hesaplama\obj\Debug\Elkon_Anket_Sonuc_Hesaplama.Emea.resources
+C:\Users\trc\documents\visual studio 2015\Projects\Elkon Anket Sonuc Hesaplama\Elkon Anket Sonuc Hesaplama\obj\Debug\Elkon_Anket_Sonuc_Hesaplama.yonetimidari.resources
+C:\Users\trc\documents\visual studio 2015\Projects\Elkon Anket Sonuc Hesaplama\Elkon Anket Sonuc Hesaplama\obj\Debug\Elkon_Anket_Sonuc_Hesaplama.inovasyonproje.resources
+C:\Users\trc\documents\visual studio 2015\Projects\Elkon Anket Sonuc Hesaplama\Elkon Anket Sonuc Hesaplama\obj\Debug\Elkon_Anket_Sonuc_Hesaplama.İnovasyonbilgiislem.resources
+C:\Users\trc\documents\visual studio 2015\Projects\Elkon Anket Sonuc Hesaplama\Elkon Anket Sonuc Hesaplama\obj\Debug\Elkon_Anket_Sonuc_Hesaplama.disticaret.resources
